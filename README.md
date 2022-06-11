@@ -2,7 +2,14 @@
 ---
 
 <img src = KakaoTalk_20220611_215337532.jpg height = 150 width = 150>
-홍채림
+NAME : Hong Chaerim(홍채림)
+
+Age : 24
+
+Email : cr20207@naver.com
+
+Major : 콘텐츠IT
+
 
 
 ---
@@ -19,7 +26,6 @@
 2. JAVA
 3. pyhon
 4. C++   
-
 
 -------------------
 
